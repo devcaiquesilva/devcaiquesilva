@@ -34,19 +34,13 @@ Sou um desenvolvedor apaixonado por criar experiências mobile fluidas e eficien
 
 ### 📊 Estatísticas e Atividade
 
-<div align="center">
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devcaiquesilva&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcaiquesilva&layout=compact&theme=react" alt="Linguagens mais usadas" />
-
-  <br/><br/>
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devcaiquesilva&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" alt="Gráfico de Atividade" />
-
+ <div align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=devcaiquesilva&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
+  <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=devcaiquesilva&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" alt="Gráfico de Atividade" />
 </div>
+
 ---
 
-### 📫 Vamos conversar?
+### 📫 Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devcaiquesilva/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devcaiquesilva@gmail.com)
