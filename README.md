@@ -1,4 +1,4 @@
-# Olá, eu sou o Caique Silva 👋
+# Opa! Sou o Caique Silva 👋
 
 ### Mobile Developer (Flutter & Dart) | Estudante de ADS
 
@@ -17,21 +17,16 @@ Sou um desenvolvedor apaixonado por criar experiências mobile fluidas e eficien
 
 ### 🛠️ Tech Stack
 
-**Mobile & Frontend**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+**Mobile & Frontend** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Backend & Database**
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Backend & Database** ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
 ### 🏗️ Projetos em Destaque
+- **Projetos Corporativos:** Desenvolvimento de apps robustos para **MELOZ** e **M.S. Kuroda**.
 - **Sistema de Barbearia:** Desenvolvendo uma solução completa para gestão e agendamentos (Em andamento).
-- **Projetos Corporativos:** Desenvolvimento de apps robustos para MELOZ e M.S. Kuroda.
+
 
 ---
 
