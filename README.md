@@ -11,7 +11,7 @@ Sou um desenvolvedor apaixonado por criar experiências mobile fluidas e eficien
 - 🏗️ **Arquitetura:** Domínio em GetX para gerenciamento de estado e arquitetura escalável.
 - 🔗 **Integrações:** Experiência sólida com Firebase (Auth, Google Login), Supabase e APIs REST (HTTP).
 - 🛠️ **Habilidades Especiais:** Integração de projetos locais com Samba e armazenamento em nuvem.
-- 🎓 **Em aprendizado:** Atualmente mergulhando no ecossistema Node.js e JavaScript para me tornar Fullstack.
+- 🎓 **Em aprendizado:** Atualmente mergulhando na tecnologia Riverpod e Arquitetura e Sistemas Offline-First.
 
 ---
 
@@ -48,8 +48,11 @@ Sou um desenvolvedor apaixonado por criar experiências mobile fluidas e eficien
 ## 📊 Estatísticas e Atividade
 
  <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=devcaiquesilva&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
+  <div align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=devcaiquesilva&show_icons=true&theme=react&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
   <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=devcaiquesilva&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" alt="Gráfico de Atividade" />
+</div>
+ Atividade" />
 </div>
 
 ---
