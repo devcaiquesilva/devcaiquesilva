@@ -52,8 +52,6 @@ Sou um desenvolvedor apaixonado por criar experiências mobile fluidas e eficien
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=devcaiquesilva&show_icons=true&theme=react&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
   <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=devcaiquesilva&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" alt="Gráfico de Atividade" />
 </div>
- Atividade" />
-</div>
 
 ---
 
