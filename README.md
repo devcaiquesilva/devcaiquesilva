@@ -40,7 +40,7 @@ Sou um desenvolvedor apaixonado por criar experiências mobile fluidas e eficien
 
 ## 🏗️ Projetos em Destaque
 - **Projetos Corporativos:** Desenvolvimento de apps robustos para **MELOZ** e **M.S. Kuroda**.
-- **Sistema de Barbearia:** Desenvolvendo uma solução completa para gestão e agendamentos (Em andamento).
+- **Aplicativo de CriptoMoedas:** Desenvolvendo uma aplicação para analisar CriptoMoedas (Em andamento).
 
 
 ---
