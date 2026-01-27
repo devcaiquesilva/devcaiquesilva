@@ -49,8 +49,9 @@ Sou um desenvolvedor apaixonado por criar experiências mobile fluidas e eficien
 
  <div align="center">
   <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=devcaiquesilva&show_icons=true&theme=react&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=devcaiquesilva&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" alt="Gráfico de Atividade" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devcaiquesilva&show_icons=true&theme=react&count_private=true&hide_border=true&cache_seconds=1800" alt="Estatísticas do GitHub" />
+  <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcaiquesilva&layout=compact&theme=react&hide_border=true" />
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=devcaiquesilva&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" alt="Gráfico de Atividade" />
 </div>
 
 ---
