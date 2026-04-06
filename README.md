@@ -2,7 +2,7 @@
 
 # Caique Silva
 
-### Desenvolvedor Mobile & Backend · 23 anos
+### Desenvolvedor & Empreendedor · 23 anos
 
 *Flutter · Node.js · Python · AI Agents · TI & Infraestrutura*
 
@@ -125,7 +125,12 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devcaiquesilva&show_icons=true&theme=react&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcaiquesilva&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=devcaiquesilva&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=devcaiquesilva&show_icons=true&theme=react&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcaiquesilva&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="165" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devcaiquesilva&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+
 </div>
+
+---
