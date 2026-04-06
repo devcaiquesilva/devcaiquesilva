@@ -126,10 +126,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devcaiquesilva&show_icons=true&theme=react&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcaiquesilva&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="165" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=devcaiquesilva&theme=react&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devcaiquesilva&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcaiquesilva&layout=compact&theme=react&hide_border=true)](https://github.com/devcaiquesilva)
 
 </div>
 
