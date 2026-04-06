@@ -128,8 +128,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=devcaiquesilva&theme=react&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devcaiquesilva&theme=github_dark)](https://github.com/devcaiquesilva)
-
 </div>
 
 ---
