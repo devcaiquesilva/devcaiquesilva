@@ -19,7 +19,6 @@
 
 5 anos transformando ideias em produtos reais. Foco principal em **apps mobile com Flutter**, expandindo para **APIs com Node.js e Python** e construindo **agentes de IA** com Claude API e N8N. Da câmera IP ao agente de IA — do rack ao deploy em VPS — faço o ciclo completo.
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** — Unicesumar
 - 📍 Socorro, SP — Brasil
 - 💡 Apaixonado por arquitetura limpa, automações e empreendedorismo
 - 🚀 Atualmente desenvolvendo a **NXFintech** — plataforma fintech própria
