@@ -92,9 +92,9 @@ Infraestrutura de rede, servidores e automação comercial.
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=devcaiquesilvahue&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=devcaiquesilva&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devcaiquesilvahue&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devcaiquesilva&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
 
