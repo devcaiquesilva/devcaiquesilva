@@ -23,7 +23,7 @@ Sou desenvolvedor Flutter e backend Node.js/Python com **apps publicados na App 
 
 Isso significa uma coisa para quem me contrata: **um único profissional resolve o que normalmente exige três.** Front, back e infra, sem perder tempo alinhando fornecedores diferentes.
 
-- 📍 Socorro, SP — Brasil · 23 anos
+- 📍 Socorro, SP — Brasil · 24 anos
 - 🏗️ Clean Architecture com Riverpod e GetX em todos os projetos
 - 🚀 Construindo a **NXFintech** — plataforma própria de trading algorítmico com IA
 - 🗣️ Português nativo · Inglês intermediário
