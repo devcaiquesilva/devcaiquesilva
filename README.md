@@ -2,9 +2,9 @@
 
 # Caique Silva
 
-### Desenvolvedor & Empreendedor · 23 anos
+### Dev Flutter & Backend Node/Python · Apps publicados na App Store e Play Store
 
-*Flutter · Node.js · Python · AI Agents · TI & Infraestrutura*
+*Do código ao servidor em produção — da câmera IP ao agente de IA.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devcaiquesilva/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devcaiquesilva@gmail.com)
@@ -17,108 +17,74 @@
 
 ## 👋 Sobre mim
 
-5 anos transformando ideias em produtos reais. Foco principal em **apps mobile com Flutter**, expandindo para **APIs com Node.js e Python** e construindo **agentes de IA** com Claude API e N8N. Da câmera IP ao agente de IA — do rack ao deploy em VPS — faço o ciclo completo.
+Precisa de um app mobile que chega até a loja e um backend que aguenta produção? Faço as duas pontas.
 
-- 📍 Socorro, SP — Brasil
-- 💡 Apaixonado por arquitetura limpa, automações e empreendedorismo
-- 🚀 Atualmente desenvolvendo a **NXFintech** — plataforma fintech própria
+Sou desenvolvedor Flutter e backend Node.js/Python com **apps publicados na App Store e na Play Store**. Entrego o ciclo completo do produto: da tela em Flutter à API em produção, do banco de dados ao deploy em VPS Linux. E quando o projeto precisa, desço até a infraestrutura — montei racks, configurei redes Cisco, CFTV e automação comercial em ambiente de varejo real.
+
+Isso significa uma coisa para quem me contrata: **um único profissional resolve o que normalmente exige três.** Front, back e infra, sem perder tempo alinhando fornecedores diferentes.
+
+- 📍 Socorro, SP — Brasil · 23 anos
+- 🏗️ Clean Architecture com Riverpod e GetX em todos os projetos
+- 🚀 Construindo a **NXFintech** — plataforma própria de trading algorítmico com IA
+- 🗣️ Português nativo · Inglês intermediário
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-1C1C1C?style=flat-square&logo=dart&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-8B44F7?style=flat-square&logo=dart&logoColor=white)
-
-**Backend & APIs**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Auth & Database**
-
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**IA & Automação**
-
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-**Infra & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-**TI & Redes**
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![VPN](https://img.shields.io/badge/VPN-005C99?style=flat-square&logo=wireguard&logoColor=white)
+**Mobile:** Flutter (Android e iOS), Dart, Riverpod, GetX
+**Backend & APIs:** Node.js, Python, REST, Dio
+**Databases:** PostgreSQL, Firebase, Supabase, Redis
+**Auth:** Firebase Auth, Google Sign-In, Apple Sign-In
+**IA & Automação:** Claude (Anthropic), Groq, N8N
+**Infra & DevOps:** Docker, Linux (Debian), VPS, Cloudflare
+**TI & Redes:** Cisco, VPN, CFTV, PDV/ERP/CRM
 
 ---
 
 ## 💼 Experiência
 
-### 🔵 M.S. Kuroda — Desenvolvedor de Software
-
-> Apps Flutter, APIs Node.js e integrações com sistemas internos
-
-- App Flutter para exibição de mídia digital em displays corporativos (**Kuroda Ads Display**)
-- Painel admin **web e mobile** para gestão de campanhas e agendamentos (**Kuroda Ads Admin**)
-- Validação via Shell Script (md5sum) no Linux: importa e mapeia dados do txitens MGV7 para JSON, dividindo itens por setor com atualização automática de preços
-- Sistema B2B com controle de estoque, fluxo de separação e **impressão de pedidos com um clique no celular** (**Separador B2B**)
-- API Node.js para integração de impressão do Separador B2B
-- Sistema de segurança e controle de acesso (**Kuroda Security**)
-
-`Flutter` `Node.js` `Shell Script` `Linux` `Riverpod`
-
----
-
-### 🔵 M.S. Kuroda — Suporte e Infraestrutura de TI
-
-> Infraestrutura de rede, servidores e sistemas corporativos
-
-- Instalação e configuração de câmeras IP e DVR / CFTV
-- Montagem e organização de rack de servidor
-- Configuração de switches e roteadores Cisco
-- Implantação e manutenção de VPN corporativa
-- Administração de sistema ERP e CRM
-- Análise e manutenção de sistema PDV e Retaguarda
-
-`Cisco` `VPN` `CFTV` `ERP` `CRM` `PDV` `Rack`
-
----
-
-### 🔴 MELOZ — Desenvolvedor de Software
-
-> Aplicativos mobile com Flutter e Clean Architecture
-
-- Desenvolvimento de aplicativos mobile com Flutter
-- Autenticação com Firebase Auth, Supabase, Google Login e Apple Login
-- Gerenciamento de estado com **GetX** e **Riverpod**
-- Consumo de APIs REST com **Dio** e integrações externas
+### MELOZ Tech — Desenvolvedor de Software
+Apps mobile entregues a clientes, do front ao back.
+- **ZP Pay** — app de banco digital em Flutter
+- **Akadion** — app de treinos/academia no estilo Hevy, com Firebase
+- Apps Flutter integrados a Firebase e Supabase, com GetX e Riverpod
+- Autenticação com Google e Apple Login, consumo de APIs REST com Dio
 - Interfaces complexas com fidelidade total ao design
-- Clean Architecture em todos os projetos — modelagem de banco focada em velocidade, segurança e manutenção fácil
+- Testes e QA em Clean Architecture
+**Stack:** Flutter, Firebase, Supabase, GetX, Riverpod, Dio, Clean Architecture
 
-`Flutter` `Firebase` `Supabase` `GetX` `Riverpod` `Dio` `Clean Architecture`
+### M.S. Kuroda Atacarejo — Desenvolvedor de Software
+Apps e APIs para operação de varejo em escala.
+- **Kuroda Ads Display** — player de mídia digital para redes de telas corporativas (Flutter no Windows + API Node.js + sincronização via Shell Script no Linux)
+- **Separador B2B** — separação de pedidos com controle de estoque e impressão com um clique no celular (Flutter + Riverpod + API Node.js de impressão)
+- **Kuroda Security & Kuroda Administration** — apps internos de controle de acesso e gestão
+- Validação de dados no Linux com Shell Script (md5sum): importa o `txitens` do MGV7, mapeia para JSON e divide itens por setor com atualização automática de preços
+**Stack:** Flutter, Node.js, Shell Script, Linux, Riverpod
+
+### M.S. Kuroda Atacarejo — Suporte e Infraestrutura de TI
+Infraestrutura de rede, servidores e automação comercial.
+- Montagem e organização de rack; servidores Linux Debian
+- Switches e roteadores Cisco; VPN corporativa
+- CFTV completo: DVR Intelbras, câmeras IP e monitoramento
+- Automação comercial: PDV, frente de caixa, ERP, CRM, balanças Toledo e impressoras
+**Stack:** Cisco, VPN, CFTV, ERP, CRM, PDV, Rack
 
 ---
 
 ## 🚀 Projetos em destaque
 
-| Projeto | Descrição | Stack |
+| Projeto | O que é | Stack |
 |---|---|---|
-| **Kuroda Ads Display** | Player de mídia digital para displays corporativos no Windows | Flutter · Node.js · Linux · Shell Script |
-| **Kuroda Ads Admin** | Painel web e mobile para gestão de campanhas | Flutter · Flutter Web · Node.js |
-| **Separador B2B** | Sistema de separação de pedidos com impressão via celular | Flutter · Riverpod · Node.js |
-| **ACE** — Adaptive Cognitive Engine | Assistente de voz com IA multi-agente, STT e TTS em PT-BR | Flutter · Claude AI · Groq · N8N |
-| **Crypto Pulse** | App de análise de criptomoedas com indicadores técnicos | Flutter · Riverpod · Dio |
-| **NXFintech** 🔒 | Plataforma fintech — em desenvolvimento | Flutter · IA · B3 · Node.js |
+| **ZP Pay** | App de banco digital | Flutter, Firebase, Riverpod |
+| **Akadion** | App de treinos/academia estilo Hevy | Flutter, Firebase, Riverpod |
+| **Kuroda Ads Display** | Player de mídia digital para redes de telas | Flutter, Node.js, Linux, Shell Script |
+| **Separador B2B** | Separação de pedidos com impressão via celular | Flutter, Riverpod, Node.js |
+| **ACE** | Assistente de voz multi-agente com STT/TTS em PT-BR | Flutter, Claude AI, Groq, N8N |
+| **Crypto Pulse** | Análise de criptomoedas com indicadores técnicos | Flutter, Riverpod, Dio |
+| **NXFintech** 🔒 | Plataforma de trading algorítmico com IA · *em desenvolvimento* | Python, VPS, PostgreSQL, Anthropic, Groq |
+
+> **NXFintech** — plataforma própria de trading algorítmico em Python, rodando em VPS, com área de membros web, PostgreSQL e camada de IA (Anthropic + Groq). 🔒 Documentação em atualização.
 
 ---
 
@@ -126,8 +92,20 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=devcaiquesilva&theme=react&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=devcaiquesilvahue&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devcaiquesilvahue&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
+
+<div align="center">
+
+### Tem um app ou plataforma para tirar do papel?
+
+Do protótipo à publicação nas lojas, com backend e infra prontos para escalar.
+
+[![WhatsApp](https://img.shields.io/badge/Vamos_conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519999819875)
+
+</div>
